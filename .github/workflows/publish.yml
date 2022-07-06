@@ -1,4 +1,4 @@
-name: Publish in DockerHubb
+name: Publish in DockerHubbb
 
 on:  
   push:
